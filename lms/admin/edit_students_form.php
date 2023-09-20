@@ -1,4 +1,4 @@
-<div class="row-fluid">
+   <div class="row-fluid">
        <a href="students.php" class="btn btn-info"><i class="icon-plus-sign icon-large"></i> Add Student</a>
                         <!-- block -->
                         <div class="block">

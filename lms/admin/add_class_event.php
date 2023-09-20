@@ -1,4 +1,4 @@
-<form id="signin_student" class="form-signin" method="post">
+ <form id="signin_student" class="form-signin" method="post">
 	<h4 class="form-signin-heading"><i class="icon-plus-sign"></i> Add Event</h4>
 	    <input type="text" class="input-block-level datepicker" name="date_start" id="date01" placeholder="Date Start" required/>
 	    <input type="text" class="input-block-level datepicker" name="date_end" id="date01" placeholder="Date End" required/>
@@ -62,5 +62,3 @@ if (isset($_POST['add'])){
                               
 										</tbody>
 									</table>
-
-                                    
